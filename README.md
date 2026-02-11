@@ -7,6 +7,7 @@ This is my first game project with Unity Engine, i learn how to build a game fro
 
 ## Screenshoot
 # Windows
+<img src="Images/WinGameplay.png" width="50%">
 !["Gameplay on Windows"](Images/WinGameplay.png)
 !["GameOver on Windows"](Images/WinGameOver.png)
 
