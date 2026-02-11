@@ -30,4 +30,4 @@ I may update this game, but wait until i'm pro to use Unity :v
 
 # Profile
 ["Github"](https://github.com/RaydenDevs)
-["Website"](raydenviz.my.id)
+["Website"](https://www.raydenviz.my.id)
