@@ -2,15 +2,20 @@
 Flappy Bird parody - Unity
 
 # About
-This is my first game project with Unity Engine, i learn how to build a game from ["YouTube Tutotial"](https://youtu.be/XtQMytORBmM?si=T7UK217ikeq1ev-H)
+This is my first game project with Unity Engine, i learn how to build a game from 
+[!["YouTube Tutotial"](https://i.ytimg.com/an_webp/XtQMytORBmM/mqdefault_6s.webp?du=3000&sqp=CLL4sMwG&rs=AOn4CLB6S4CMfRLo3frfDXc3rYqqODZS_g)](https://youtu.be/XtQMytORBmM?si=T7UK217ikeq1ev-H)
 
 ## Screenshoot
 # Windows
-["Gameplay on Windows"](Images/WinGameplay)
-["Gameplay on Android"](Images/AndroidGameplay)
+!["Gameplay on Windows"](Images/WinGameplay.png)
+!["GameOver on Windows"](Images/WinGameOver.png)
+
 # Android
-["GameOver on Windows"](Images/WinGameOver)
-["GameOver on Android"](Images/AndroidGameOver)
+!["Gameplay on Android"](Images/AndroidGameplay)
+!["GameOver on Android"](Images/AndroidGameOver)
+
+# Download
+["Android"](https://www.mediafire.com/file/25vp3u60w1uvpnc/TappingBird.apk/file)
 
 # Note
 I may update this game, but wait until i'm pro to use Unity :v
