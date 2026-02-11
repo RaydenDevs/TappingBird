@@ -11,8 +11,8 @@ This is my first game project with Unity Engine, i learn how to build a game fro
 <img src="Images/WinGameOver.png" width="50%" alt="Windows GameOver">
 
 ## Android
-<img src="Images/AndroidGameplay.png" width="50%" alt="Android Gameplay">
-<img src="Images/AndroidGameOver.png" width="50%" alt="Android GameOver">
+<img src="Images/AndroidGameplay.png" width="25%" alt="Android Gameplay">
+<img src="Images/AndroidGameOver.png" width="25%" alt="Android GameOver">
 
 # Icon
 <img src="Images/icon.png" width="25%" alt="Game Icon">
