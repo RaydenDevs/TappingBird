@@ -19,7 +19,7 @@ This is my first game project with Unity Engine, i learn how to build a game fro
 
 # Download
 ["Android"](https://github.com/RaydenDevs/TappingBird/blob/main/TappingBird_Android/TappingBird.apk)
-["Windows"](https://github.com/RaydenDevs/TappingBird/blob/main/TappingBird_Win/Flappy%20Bird.exe)
+["Windows"](https://github.com/RaydenDevs/TappingBird/blob/main/TappingBird_Win/TappingBirdSetup.exe)
 
 ## Note
 I may update this game, but wait until i'm pro to use Unity :v
