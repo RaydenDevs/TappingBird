@@ -3,7 +3,7 @@ Flappy Bird parody - Unity
 
 # About
 This is my first game project with Unity Engine, i learn how to build a game from<br>
-[!["YouTube Tutotial"](https://i.ytimg.com/an_webp/XtQMytORBmM/mqdefault_6s.webp?du=3000&sqp=CLL4sMwG&rs=AOn4CLB6S4CMfRLo3frfDXc3rYqqODZS_g)(https://i.ytimg.com/vi/XtQMytORBmM/maxresdefault.jpg)](https://youtu.be/XtQMytORBmM?si=T7UK217ikeq1ev-H)
+<a href="https://youtu.be/XtQMytORBmM?si=T7UK217ikeq1ev-H"><img src="https://i.ytimg.com/vi/XtQMytORBmM/maxresdefault.jpg" width="50%" alt="Flappy Bird Unity Tutorial"><\a>
 
 ## Screenshoot
 # Windows
