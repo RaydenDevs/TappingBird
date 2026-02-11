@@ -18,8 +18,9 @@ This is my first game project with Unity Engine, i learn how to build this game 
 <img src="Images/icon.png" width="25%" alt="Game Icon">
 
 # Download
-["Android"](https://github.com/RaydenDevs/TappingBird/blob/main/TappingBird_Android/TappingBird.apk)
-["Windows"](https://github.com/RaydenDevs/TappingBird/blob/main/TappingBird_Win/TappingBirdSetup.exe)
+Github : ["Windows"](https://github.com/RaydenDevs/TappingBird/blob/main/TappingBird_Win) (Setup)</br>
+Github : ["Android"](https://github.com/RaydenDevs/TappingBird/tree/main/TappingBird_Apk)</br>
+Patreon: ["Android & Windows"](https://www.patreon.com/posts/150486747)
 
 ## Note
 I may update this game, but wait until i'm pro to use Unity :v
