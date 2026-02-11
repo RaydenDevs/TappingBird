@@ -1,5 +1,5 @@
 # Tapping Bird
-Flappy Bird parody - Unity
+Flappy Bird parody - Unity - 2D Game
 
 ## About
 This is my first game project with Unity Engine, i learn how to build this game from this Youtube Channel</br>
