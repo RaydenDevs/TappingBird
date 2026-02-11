@@ -25,7 +25,7 @@ This is my first game project with Unity Engine, i learn how to build a game fro
 I may update this game, but wait until i'm pro to use Unity :v
 
 # Game Engine
-## Unity 6.3
+## Unity 6.2
 <img src="https://1000logos.net/wp-content/uploads/2021/10/Unity-logo.png" width="50%" alt="Game Icon">
 
 # Profile
